@@ -1,0 +1,21 @@
+# IntelliJ generated files
+**/*.iml
+**/.idea
+
+# build dirs
+**/target
+**/out
+**/dist
+
+# OS-specific files
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+
+# Docker volumes
+docker/volumes
+docker/.env
+
+**/test-output
