@@ -5,7 +5,6 @@
 /out-tsc
 **/target
 **/out
-**/dist
 
 # dependencies
 **/node_modules
@@ -38,19 +37,9 @@ speed-measure-plugin.json
 /coverage
 /libpeerconnection.log
 npm-debug.log
-yarn-error.log
-testem.log
-/typings
 
 # System Files
-.DS_Store
 Thumbs.db
-
-
-
-# OS-specific files
-# Node
-node_modules/
 
 # Docker volumes
 docker/volumes
