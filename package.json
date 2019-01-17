@@ -1,0 +1,29 @@
+{
+  "name": "ng-pji-stores",
+  "version": "1.0.0",
+  "description": "Angular 7 - Geolocate Customers & Find Nearby Stores",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clyde4papa/ng-pji-stores.git"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "@angular/cli",
+    "@angular",
+    "geolocate",
+    "stores"
+  ],
+  "author": "Clyde Sales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clyde4papa/ng-pji-stores/issues"
+  },
+  "homepage": "https://github.com/clyde4papa/ng-pji-stores#readme"
+}
